@@ -1,0 +1,2 @@
+# mcdonalds
+Generated Repository
